@@ -19,7 +19,7 @@
 
 <hr>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=guigaf&theme=radical"/>
