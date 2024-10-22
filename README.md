@@ -18,7 +18,9 @@
 <br>
 
 <hr>
-  
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=guigaf&theme=radical"/>
   <img  width="42%" src="https://streak-stats.demolab.com?user=guigaf&theme=radical&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
@@ -34,7 +36,6 @@
 
 <br>
 <br>
-
 
 <div align="center" padding="0.7rem"> 
   <a href="https://www.instagram.com/guilhermespillere/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
