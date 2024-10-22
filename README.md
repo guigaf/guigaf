@@ -1,21 +1,24 @@
+<hr>
+
 <h3 align="center">Ola! Eu sou o Guilherme Spillere da Rosa.</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guigaf&theme=radical&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guigaf&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">  
+  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=guigaf&theme=radical&show_icons=true" alt="Guilherme Spillere da Rosa"/>
+  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=guigaf&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</div>
+
+<hr>
 
 <h3 align="center">Possuo conhecimento nas seguintes tecnologias:</h3>
+
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,docker,arduino,cs,cpp,git,javascript,html,css,vscode,visualstudio,postgresql,mysql" />
+        <img src="https://skillicons.dev/icons?i=py,docker,arduino,cs,cpp,git,vscode,visualstudio,postgresql,mysql,javascript,html,css" />
     </a>
-
-    
 <br>
 
+<hr>
+  
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=guigaf&theme=radical"/>
   <img  width="42%" src="https://streak-stats.demolab.com?user=guigaf&theme=radical&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
