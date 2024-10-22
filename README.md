@@ -1,24 +1,42 @@
-### Ola! Eu sou o Guilherme Spillere da Rosa, você pode entrar em contato comigo através das seguitnes redes sociais:
+<h3 align="center">Ola! Eu sou o Guilherme Spillere da Rosa.</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/guilherme.spillere)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermespillere/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-spillere-da-rosa-738699152/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guigaf&theme=radical&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guigaf&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-### Ou atraves do E-mail:
+<h3 align="center">Possuo conhecimento nas seguintes tecnologias:</h3>
+<div style="display: inline_block" align="center" ><br>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,docker,arduino,cs,cpp,git,javascript,html,css,vscode,visualstudio,postgresql,mysql" />
+    </a>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    g.spillere.r@gmail.com
+    
+<br>
+
+<div align="center" display="flex">
+  <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=guigaf&theme=radical"/>
+  <img  width="42%" src="https://streak-stats.demolab.com?user=guigaf&theme=radical&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
 </div>
 
-### Possuo conhecimento nas seguintes tecnologias:
+<hr>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />    
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guigaf/guigaf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/guigaf/guigaf/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guigaf/guigaf/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+<br>
+
+
+<div align="center" padding="0.7rem"> 
+  <a href="https://www.instagram.com/guilhermespillere/" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href = "mailto:g.spillere.r@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-spillere-da-rosa-738699152/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>   
 </div>
 
-Interessado em programação, tecnologia, engenharia e automação!
+Interessado em programação, tecnologia, engenharia, analise e engenharia de dados!
